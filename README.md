@@ -1,5 +1,14 @@
 # sonar-cubes-guide
 
+## Pre-requisites
+Java version 21 
+https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.exe
+
+Verify:
+1. Go to command prompt
+2. Run java -version
+3. It must show version 21
+
 ## Install the Sonar plugin in IntelliJ
 
 1. Open IntelliJ IDEA
