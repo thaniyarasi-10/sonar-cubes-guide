@@ -35,4 +35,6 @@
 - Login using default credentials:
     Username: admin
     Password: admin
-- Change password 
+- Change password
+- Create a new project and work on
+  
