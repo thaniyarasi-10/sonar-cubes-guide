@@ -33,5 +33,6 @@
 - Open a browser and go to:
       http://localhost:9000
 - Login using default credentials:
-  Username: admin
-Password: admin
+    Username: admin
+    Password: admin
+- Change password 
